@@ -1,1 +1,2 @@
-<h1>Binary<span style="background-color:"green">Trees</span></h1>
+ <h1 style="background-color: green;">Binary Trees</h1>
+
